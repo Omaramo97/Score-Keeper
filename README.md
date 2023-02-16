@@ -1,4 +1,4 @@
-# Ping Pong
+# Score Keeper
 
 Simple web app that mainly uses CSS framework Bulma, and javascript.
 
