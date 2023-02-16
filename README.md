@@ -1,6 +1,6 @@
 # Score Keeper
 
-Simple web app that mainly uses CSS framework Bulma, and javascript.
+Simple web app that mainly uses CSS framework Bulma and javascript.
 
 ## Features
 
